@@ -3,6 +3,7 @@
 /CowTimer.class
 /HouseOfMemories.mp3
 /Jukebox.class
+/LaughingCryingFace.png
 /MagicBox.class
 /MediaPalace.class
 /Movie.class
@@ -15,13 +16,12 @@
 /Song.class
 /Supply.class
 /Textbook.class
+/ding.mp3
+/ding.wav
 /extra/
 /gridworld.jar
 /magic-box.jpg
 /moo.wav
-/337917__fschaeffer__90triangle.wav
 /triangle.wav
-/ding.wav
-/ding.mp3
-/LaughingCryingFace.png
-/LaughingCryingFace2.png
+/NetflixMovie.class
+/Gridworld.class
